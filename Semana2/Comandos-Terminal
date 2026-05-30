@@ -1,0 +1,6 @@
+cd semana2
+mkdir semana2
+git status
+git add
+git commit
+git push  
