@@ -1,0 +1,40 @@
+Prueba de API realizada con Thunder Client.
+
+Método utilizado: POST
+
+Ruta probada:
+http://localhost:3000/reporte
+
+JSON enviado:
+
+{
+  "nombre": "Ana",
+  "mensaje": "Hola"
+}
+
+Respuesta recibida:
+
+{
+  "estado": "Reporte recibido",
+  "mensaje": "Hola"
+}
+
+Se realizó una petición POST usando Thunder Client.
+
+Ruta:
+http://localhost:3000/registro
+
+Datos enviados:
+
+{
+"nombre":"Maria",
+"mensaje":"Hola comunidad"
+}
+
+Respuesta recibida:
+
+{
+"estado":"Datos recibidos",
+"nombre":"Maria",
+"mensaje":"Hola comunidad"
+}
