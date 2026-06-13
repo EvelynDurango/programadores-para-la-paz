@@ -1,0 +1,17 @@
+{
+  "name": "semana7",
+  "version": "1.0.0",
+  "description": "Aplicación de reportes de la semana 7",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node -e \"console.log('No hay pruebas configuradas aún para semana7')\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

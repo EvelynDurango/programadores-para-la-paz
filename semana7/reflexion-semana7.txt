@@ -1,0 +1,8 @@
+Las plataformas tecnológicas permiten que las comunidades registren problemas e incidencias de manera organizada.
+Estos sistemas facilitan la comunicación entre ciudadanos e instituciones.
+También permiten consultar información para conocer las necesidades más frecuentes.
+Al tener los reportes almacenados se pueden tomar mejores decisiones.
+Las APIs ayudan a conectar diferentes aplicaciones y servicios. 
+El uso de estas herramientas mejora la participación ciudadana. 
+Además, permite hacer seguimiento a las soluciones propuestas. 
+La tecnología puede apoyar la construcción de comunidades más organizadas.

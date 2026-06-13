@@ -1,0 +1,7 @@
+Cuando se consulta la ruta GET /reportes, el servidor muestra todos los reportes almacenados en el array reportes. Los datos aparecen en formato JSON y contienen el id, tipo y descripción de cada reporte registrado mediante la ruta POST.
+La información se mantiene mientras el servidor está encendido porque se guarda en memoria.
+Ejemplo 1:
+"tipo":"Infraestructura", "descripcion":"Daño en alumbrado público"
+
+Ejemplo 2:
+"tipo":"Ambiente", "descripcion":"Acumulación de residuos en una zona comunitaria"
