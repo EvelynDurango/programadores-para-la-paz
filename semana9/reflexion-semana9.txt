@@ -1,0 +1,6 @@
+Las plataformas tecnológicas utilizadas por las comunidades necesitan funcionar de manera estable y segura porque muchas personas dependen de ellas para acceder a servicios e información. 
+Un servidor bien configurado permite que las aplicaciones estén disponibles cuando los usuarios las necesitan.
+Además, los registros o logs ayudan a identificar problemas y mejorar el funcionamiento.
+La seguridad permite proteger los datos y evitar accesos no autorizados.
+La estabilidad evita interrupciones que pueden afectar los procesos de una organización.
+Por esta razón es importante aplicar buenas prácticas en servidores, monitoreo y mantenimiento continuo.
