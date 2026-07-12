@@ -1,0 +1,5 @@
+Backlog priorizado
+1. Como coordinador quiero recibir una notificación en Telegram cuando se registre una nueva incidencia para hacer seguimiento oportuno.
+2. Como miembro del equipo quiero consultar el historial de reportes para verificar el estado de cada caso.
+3. Como administrador quiero actualizar el estado de los reportes para informar el avance de la gestión.
+4. Como ciudadano quiero recibir una confirmación de que mi reporte fue recibido correctamente.
